@@ -1,6 +1,12 @@
 # dev-auto
 development automation
 
+## mk-excel-db.py
+### 목적
+* mysql table 을 조회해서 schema 엑셀 문서로 만든다
+### 사용법
+python mk-excel-db.py table1 table2 ...
+
 ## get-col
 ### 목적
 * 한글단어를 영문단어로 바꾼다
